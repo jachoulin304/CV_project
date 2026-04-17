@@ -4,8 +4,12 @@
 
 專案目錄結構:
 
-├── final_1.py            # 作業 1：紅色墨水面積計算腳本
+FreeFall.MOV: 自由落體實驗原始影片。
 
-├── FreeFall.MOV          # 作業 2：自由落體原始影片
+final.py: 影像處理與面積計算之 Python 腳本。
 
-└── README.md             # 本說明文件
+影像鑑定期末報告.pdf / .docx: 完整實驗流程與數據分析報告。
+
+11477007_final.zip: 專案完整備份壓縮檔。
+
+test1.jpg / code.png: 實驗測試圖與程式運行截圖。

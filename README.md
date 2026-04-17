@@ -12,4 +12,4 @@ final.py: 影像處理與面積計算之 Python 腳本。
 
 11477007_final.zip: 專案完整備份壓縮檔。
 
-test1.jpg / code.png: 實驗測試圖與程式運行截圖。
+test1.jpg / code.png: 實驗測試圖與程式截圖。
